@@ -30,7 +30,3 @@ Un tableau de bord immobilier en 3 pages sur 5 000 annonces réparties dans 10 m
 ## Sources
 
 Ce dépôt est une **vitrine** : il présente le projet et ses résultats. Les sources (projet Power BI, requêtes, scripts, notebook, données) ne sont pas publiées. Pour en discuter, me contacter via mon profil GitHub.
-
-## Crédits
-
-Dashboard reproduit à partir du tutoriel vidéo « Build a Real Estate Intelligence Dashboard in Power BI » (deux parties) et de son dépôt de référence : https://github.com/Fasaclox/Power-BI-Visuals-Using-Claude-AI-HTML-DAX. J'ai reconstruit le modèle, les mesures et les visuels à partir de ces supports. Le projet a été construit avec l'aide de Claude.
